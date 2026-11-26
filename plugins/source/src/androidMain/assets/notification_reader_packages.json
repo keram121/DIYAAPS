@@ -202,10 +202,16 @@
       "intervalMinutes": 5
     },
     {
-      "package": "com.ottai.tag",
-      "sensor": "Ottai",
-      "intervalMinutes": 5
-    },
+  {
+    "package": "com.ottai.tag",
+    "sensor": "Ottai",
+    "intervalMinutes": 5
+  },
+  {
+    "package": "com.ottai.tag.watch",
+    "sensor": "Ottai",
+    "intervalMinutes": 5
+  },
     {
       "package": "com.sinocare.cgm.ce",
       "sensor": "Sino App",
